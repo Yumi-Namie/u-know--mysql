@@ -5,4 +5,4 @@ Para acceder a nuestra comunidad sera necesario que te registres con nombre, cor
 
 En este repositorio encontraras la base de datos que ha sido diseñada y alojada en mySQL y por ende las consultas y la interaccion con la misma sera a través del lenguaje SQL.
 A continuacion encontraremos el diagrama de la base de datos con la que trabajaremos.
-https://raw.githubusercontent.comHuilenPe/u-know/develop/diagram/image.png
+![](https://raw.githubusercontent.comHuilenPe/u-know/develop/diagram/image.png)
