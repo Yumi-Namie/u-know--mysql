@@ -13,4 +13,8 @@ SELECT * FROM contents ORDER BY difficult_level DESC;
 SELECT * FROM ratings ORDER BY rating DESC;
 
 /* Consultar el saldo de un usuario registrado */
-SELECT balance FROM users WHERE user_name = "nombre del usuario";
+SELECT balance FROM users WHERE user_name = "user_name_1";
+
+/* Consultar los contenidos creados por un usuario */
+SELECT * FROM contents WHERE creator_id = 1010;
+
