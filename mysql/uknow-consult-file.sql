@@ -1,4 +1,19 @@
-USE db_uknow;
+USE db_uknow
+
+-- EXAMPLES QUERIES
+
+-- SHOW USERS
+SELECT * FROM users
+
+-- ORDER MESSAGES FROM OLDEST TO NEWEST
+SELECT * FROM messages
+ORDER BY send_date
+
+-- SELECT ACTIVE CHATS
+SELECT * FROM chat WHERE status = '1'
+
+-- SELECT INACTIVE CHATS
+SELECT * FROM chat WHERE status = '0'
 
 /* Consultar contenidos ordenados por precio descendiente*/
 SELECT * FROM contents ORDER BY current_price DESC
