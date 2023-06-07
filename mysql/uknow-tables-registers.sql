@@ -20,7 +20,7 @@ SELECT ID_user, name, user_name, password, email, balance, register_date
 FROM usertmp;
 -- Compruebo si esta cargado
 SELECT * FROM db_uknow.users;
-DROP TABLE db_uknow.usertmp;
+-- DROP TABLE db_uknow.usertmp;
 -- DROP TABLE db_uknow.users;
 
 /* ------------------------ */
@@ -61,7 +61,7 @@ FROM contentstmp;
 
 -- Compruebo si esta cargado
 SELECT * FROM db_uknow.contents;
-DROP TABLE db_uknow.contentstmp;
+-- DROP TABLE db_uknow.contentstmp;
 
 
 /* ------------------------ */
@@ -82,7 +82,7 @@ SELECT id_rating, id_content, id_buyer, comment, rating, ratingDate
 FROM ratingstmp;
 -- Compruebo si esta cargado
 SELECT * FROM db_uknow.ratings;
-DROP TABLE db_uknow.ratingstmp;
+-- DROP TABLE db_uknow.ratingstmp;
 
 
 /* ------------------------ */
@@ -101,8 +101,8 @@ SELECT id_purchase, purchaseDate, id_content, id_buyer
 FROM purchasestmp;
 -- Compruebo si esta cargado
 SELECT * FROM db_uknow.purchases;
-DROP TABLE db_uknow.purchases;
-DROP TABLE db_uknow.purchasestmp;
+-- DROP TABLE db_uknow.purchases;
+-- DROP TABLE db_uknow.purchasestmp;
 
 /* ------------------------ */
 /*          chat            */
@@ -122,8 +122,8 @@ SELECT id_chat, id_purchase, id_creator, id_buyer
 FROM chattmp;
 -- Compruebo si esta cargado
 SELECT COUNT(*) FROM db_uknow.chat;
-DROP TABLE db_uknow.chat;
-DROP TABLE db_uknow.chattmp;
+-- DROP TABLE db_uknow.chat;
+-- DROP TABLE db_uknow.chattmp;
 
 /* ------------------------ */
 /*        messages          */
@@ -142,8 +142,8 @@ SELECT id_message, messageText, sendDate, id_user, id_chat
 FROM messagestmp;
 -- Compruebo si esta cargado
 SELECT * FROM db_uknow.messages;
-DROP TABLE db_uknow.messages;
-DROP TABLE db_uknow.messagestmp;
+-- DROP TABLE db_uknow.messages;
+-- DROP TABLE db_uknow.messagestmp;
 
 
 
