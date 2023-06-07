@@ -37,6 +37,6 @@ https://app.diagrams.net/#G1HZz7USXM9jdkpAAo3D7B3C6uWWXS7zoh#{"pageId"%3A"IQGl2H
 | :---: | :---: | :---: | :---: |
 
 
-<h2 align="center" class="conclusion">Conclusión </h2
+<h2 align="center" class="conclusion">Presentación </h2
 
  [Presentación del proyecto](https://www.canva.com/design/DAFlDdnDpKo/zIAVzcmQiois2yAfMRTw1Q/edit?utm_content=DAFlDdnDpKo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
