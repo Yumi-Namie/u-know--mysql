@@ -9,7 +9,6 @@
 * [Tecnologías](#tecnologias)
 * [Características de la aplicación y demostración](#caracteristicas-de-la-aplicacion-y-demostracion)
 * [Personas-Desarrolladores del Proyecto](#autores)
-* [Licencia](#licencia)
 * [Conclusión](#conclusion)
 
 
