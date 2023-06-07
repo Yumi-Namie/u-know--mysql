@@ -1,4 +1,3 @@
-<h1 align="center"> U-Know </h1>
 <img src="./assets/uknow.png">
    <p align="">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
@@ -8,7 +7,6 @@
 
 * [Descripción del proyecto](#descripcion-del-proyecto)
 * [Tecnologías](#tecnologias)
-* [Características de la aplicación y demostración](#caracteristicas-de-la-aplicacion-y-demostracion)
 * [Personas-Desarrolladores del Proyecto](#autores)
 * [Presentación](#conclusion)
 
@@ -29,7 +27,7 @@ A continuacion encontraremos el diagrama de la base de datos con la que trabajar
 https://app.diagrams.net/#G1HZz7USXM9jdkpAAo3D7B3C6uWWXS7zoh#{"pageId"%3A"IQGl2HKboWxRF2_skLLO"}
 </p>
 
-<h2 align="center" class="caracteristicas-de-la-aplicacion-y-demostracion"> Características de la aplicación y demostración </h2>
+<!-- <h2 align="center" class="caracteristicas-de-la-aplicacion-y-demostracion"> Características de la aplicación y demostración </h2> -->
 
 <h2 align="center" class="autores">Autores </h2>
 
