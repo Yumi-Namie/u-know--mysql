@@ -1,4 +1,5 @@
 <h1 align="center"> U-Know </h1>
+<img src="./assets/uknow.png">
    <p align="">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
